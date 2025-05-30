@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/volkantasbent/Desktop/Flutter Projeler/Flutter_Basic-main/flutter_full_learn/lib/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/volkantasbent/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/volkantasbent/Desktop/applepsi_tasarim/android/app/.cxx/Debug/252e1qr1/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/volkantasbent/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/volkantasbent/Desktop/applepsi_tasarim/android/app/.cxx/Debug/252e1qr1/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

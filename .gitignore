@@ -1,0 +1,48 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+.web/
+.metadata
+.packages
+
+# Android build
+/android/.gradle/
+/android/app/build/
+/android/gradle/
+/android/local.properties
+
+# iOS build
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/ephemeral/
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
+
+# macOS build
+/macos/Flutter/ephemeral/
+/macos/build/
+
+# Windows build
+/windows/flutter/ephemeral/
+/windows/build/
+
+# Linux build
+/linux/flutter/ephemeral/
+/linux/build/
+
+# Web build
+/web/.dart_tool/
+/web/build/
+
+# User settings
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws

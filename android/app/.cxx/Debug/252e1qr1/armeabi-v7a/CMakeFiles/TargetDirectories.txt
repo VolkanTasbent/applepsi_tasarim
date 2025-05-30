@@ -1,0 +1,2 @@
+/Users/volkantasbent/Desktop/applepsi_tasarim/android/app/.cxx/Debug/252e1qr1/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/volkantasbent/Desktop/applepsi_tasarim/android/app/.cxx/Debug/252e1qr1/armeabi-v7a/CMakeFiles/rebuild_cache.dir

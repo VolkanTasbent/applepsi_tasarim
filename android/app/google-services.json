@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20929745106",
+    "project_id": "applepsi",
+    "storage_bucket": "applepsi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20929745106:android:b59e2f0b270e9c7cd99d0b",
+        "android_client_info": {
+          "package_name": "com.example.applepsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2G6j7M-x53zcTrm1vSk4i95s0WxE3fpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20929745106:android:0aeddb3bf56f868ad99d0b",
+        "android_client_info": {
+          "package_name": "com.example.applepsi_tasarim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2G6j7M-x53zcTrm1vSk4i95s0WxE3fpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
