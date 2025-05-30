@@ -1,16 +1,6 @@
-# applepsi_tasarim
+Projenin Amacı
+Bu projenin amacı, epilepsi hastalarının sağlık takibini kolaylaştırmak ve doktor-hasta iletişimini dijital ortamda güvenli ve etkili bir şekilde sağlamak için mobil tabanlı bir uygulama geliştirmektir.
 
-A new Flutter project.
+Uygulama ile hastalar; nöbet geçmişlerini kayıt altına alabilir, doktor bilgilerini görüntüleyebilir, randevu talebinde bulunabilir ve kayıtlı sağlık verilerini kontrol edebilirler. Aynı zamanda doktorlar da kendilerine bağlı hastaların verilerine erişebilir, randevu taleplerini yönetebilir ve kritik nöbetleri takip edebilir.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bu sayede hem hastaların sağlık süreçleri daha düzenli ve bilinçli şekilde yönetilebilmekte, hem de doktorların hasta takibi daha verimli hale gelmektedir. Proje, epilepsi hastalarının yaşam kalitesini artırmayı, sağlık hizmetlerine erişimi kolaylaştırmayı ve düzenli veri takibi ile doğru tedavi süreçlerini desteklemeyi hedeflemektedir.
